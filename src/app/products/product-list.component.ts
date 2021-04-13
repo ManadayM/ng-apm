@@ -4,7 +4,6 @@ import { ProductService } from './product.service';
 import { Product } from './shared/product.model';
 
 @Component({
-  selector: 'pm-products',
   templateUrl: './product-list.component.html',
   styleUrls: ['./product-list.component.css']
 })
